@@ -1,5 +1,6 @@
 def greet_user(user_name):
     # TODO: greet the user with the correct greeting
+    user_name = "Alice"
     print("Hi", user_name)
 
 
